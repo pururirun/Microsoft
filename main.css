@@ -1,0 +1,36 @@
+/*Centrar los elementos*/
+
+body{
+    text-align: center;
+}
+
+.cuadrado-color{
+/*background-color: yellow;*/
+background-color: #64726a;
+padding-bottom: 20px;
+}
+
+p{
+  font-family: 'Germania One', cursive;
+  color: #60c48b;
+}
+
+h1{
+  color: #ffffff;
+  font-family: 'Faster One', cursive;
+}
+
+img{
+  padding-bottom: 20px;
+  /*width: 400px; ancho*/
+  /*height: 400px; alto*/
+}
+
+/*.foto-grupo{
+  width: 400px;
+  height: 400px;
+}*/
+/*Hacer separador*/
+.enlaces{
+  border-top: 1px dashed black;
+}
